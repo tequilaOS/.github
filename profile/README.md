@@ -9,3 +9,7 @@
 - [Downloads](https://tequilaOS.pl/download)
 - [Telegram channel](https://t.me/tequilaOSbulletin)
 - [Telegram group](https://t.me/tequilaOSchat)
+
+## // Contribute
+- Push to our [Gerrit Code Review](https://review.tequilaOS.pl)
+- Translate on our [Crowdin](https://translate.tequilaOS.pl)
