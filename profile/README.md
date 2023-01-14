@@ -13,4 +13,4 @@
 
 ## // Contribute
 - Push to our [Gerrit Code Review](https://review.tequilaOS.pl)
-- Translate on our [Crowdin](https://translate.tequilaOS.pl)
+- Translate on our [Crowdin](https://crowdin.com/project/tequilaOS)
