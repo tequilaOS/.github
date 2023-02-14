@@ -3,7 +3,6 @@
 ## // Go ahead
 
 - Check our [platform_manifest](https://github.com/tequilaOS/platform_manifest)
-- Become a [maintainer](https://forms.gle/EykwvMibafRfE7kS6)
 
 ## // Handy links
 - [Website](https://tequilaOS.pl)
