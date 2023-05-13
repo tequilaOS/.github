@@ -5,11 +5,11 @@
 - Check our [platform_manifest](https://github.com/tequilaOS/platform_manifest)
 
 ## // Handy links
-- [Website](https://tequilaOS.pl)
-- [Downloads](https://tequilaOS.pl/download)
+- [Website](https://tequilaOS.org)
+- [Downloads](https://tequilaOS.org/download)
 - [Telegram channel](https://t.me/tequilaOSbulletin)
 - [Telegram group](https://t.me/tequilaOSchat)
 
 ## // Contribute
-- Push to our [Gerrit Code Review](https://review.tequilaOS.pl)
+- Push to our [Gerrit Code Review](https://review.tequilaOS.org)
 - Translate on our [Crowdin](https://crowdin.com/project/tequilaOS)
